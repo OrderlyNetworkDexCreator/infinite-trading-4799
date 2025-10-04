@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Leaderboard,Portfolio,Rewards,Markets",
-  "VITE_CUSTOM_MENUS": "Swaps, https://infinitetrading.io/trade; ITP Token, https://infinitetrading.io/token; dHEDGE Vaults, https://infinitrading.io/app",
+  "VITE_CUSTOM_MENUS": "Swaps, https://www.infinitetrading.io/trade; ITP Token, https://www.infinitetrading.io/token; dHEDGE Vaults, https://www.infinitetrading.io/app",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
