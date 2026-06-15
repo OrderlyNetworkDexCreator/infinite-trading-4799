@@ -13,7 +13,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "03109163f0c1fc1c05c079c18edd105d",
+  "VITE_WALLETCONNECT_PROJECT_ID": "42be948ab29b494cbc39bbdda6c33b10",
   "VITE_APP_NAME": "Infinite Trading",
   "VITE_APP_DESCRIPTION": "Trade with leverage and in perpetuity",
   "VITE_HAS_PRIMARY_LOGO": "true",
