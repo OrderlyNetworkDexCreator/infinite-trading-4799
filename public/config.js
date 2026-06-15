@@ -1,10 +1,11 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "infinitetrading",
   "VITE_ORDERLY_BROKER_NAME": "Infinite Trading",
+  "VITE_BROKER_EOA_ADDRESS": "0x8efc14b0b9a1e763ba81bbe51a5bddfa4346d0f0",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "1,900900900,56,42161,8453,10",
-  "VITE_ORDERLY_TESTNET_CHAINS": "421614,84532,97,901901901,11124",
+  "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,10143,11124,901901901",
   "VITE_DEFAULT_CHAIN": "",
   "VITE_PRIVY_APP_ID": "cmera6g2j00lqjp0c7kkt4bjp",
   "VITE_PRIVY_LOGIN_METHODS": "email",
@@ -17,8 +18,9 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Trade with leverage and in perpetuity",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Leaderboard,Portfolio,Rewards,Markets",
+  "VITE_ENABLED_MENUS": "Trading,Leaderboard,Portfolio,Rewards,Markets,Campaigns",
   "VITE_CUSTOM_MENUS": "Swaps, https://www.infinitetrading.io/trade; ITP Token, https://www.infinitetrading.io/token; dHEDGE Vaults, https://www.infinitetrading.io/app",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/infinitetradingprotocol",
   "VITE_DISCORD_URL": "https://discord.gg/dX2dJqZZDr",
@@ -34,5 +36,9 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,es",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "",
+  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_SYMBOL_LIST": "",
+  "VITE_RESTRICTED_REGIONS": "",
+  "VITE_WHITELISTED_IPS": ""
 };
